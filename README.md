@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Assistant Hub
 
 Project Prompt: Voice-Based AI Campus Assistant
@@ -202,3 +203,6 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+=======
+# siva-campus-assistant-gemini
+>>>>>>> origin/main
